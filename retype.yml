@@ -3,6 +3,6 @@ output: .retype
 url: docs-mango.nexalinux.xyz
 branding:
   title: Mango Kernel
-  label: Docs
+  label: Documentation
 footer:
   copyright: "&copy; Copyright 2025 Mango Kernel. All rights reserved."
